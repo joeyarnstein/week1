@@ -20,4 +20,17 @@ div.animal {
 
 img {
   width: 250px;
+
+}
+
+div.animal h3 {
+  text-align: center;
+}
+
+.animal p {
+  font-family: Open Sans Condensed
+}
+
+p {
+  font-family: cursive;
 }
